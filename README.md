@@ -13,5 +13,9 @@ Se utilizo los plugins integrados en VScode para proyectos de JAVA
    - Se modificó el archivo **pom.xml**, para admitir las librerias de **Spring**
 
 2. Implementacion de Código
-   - Se modificaron las clases de java, aumentando las excepciones RMI - Se creó una clase Cliente.java para probar la implementacion del servidor
+
+   - Se modificaron las clases de java, aumentando las excepciones RMI
+
+   - Se creó una clase Cliente.java para probar la implementacion del servidor
+
 3. Ejecución de Código
