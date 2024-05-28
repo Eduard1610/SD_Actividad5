@@ -22,7 +22,7 @@ Se utilizo los plugins integrados en VScode para proyectos de JAVA
 
 3. Ejecución de Código
    * Primero se inicializa el servidor
-   <img src="imagenes/SERVER.png" alt="SERVER" width="500"/>
+   <img src="Imagenes/SERVER.png" alt="SERVER" width="500"/>
    
    * Aqui se muestra cuando se ejecuta el programa
-   <img src="imagenes/PRUEBA.png" alt="PRUEBA" width="500"/>
+   <img src="Imagenes/PRUEBA.png" alt="PRUEBA" width="500"/>
