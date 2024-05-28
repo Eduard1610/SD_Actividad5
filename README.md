@@ -17,5 +17,7 @@ Se utilizo los plugins integrados en VScode para proyectos de JAVA
    - Se modificaron las clases de java, aumentando las excepciones RMI
 
    - Se creó una clase Cliente.java para probar la implementacion del servidor
+  
+   * AppConfig.java: Se configura un bean RmiServiceExporter que exporta un servicio RMI llamado CalculatorService. Este servicio implementa la interfaz CalculatorService y utiliza la implementación CalculatorServiceImpl. La configuración permite que los métodos del servicio sean invocados remotamente por clientes utilizando RMI.
 
 3. Ejecución de Código
