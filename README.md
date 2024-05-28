@@ -21,3 +21,8 @@ Se utilizo los plugins integrados en VScode para proyectos de JAVA
    * AppConfig.java: Se configura un bean RmiServiceExporter que exporta un servicio RMI llamado CalculatorService. Este servicio implementa la interfaz CalculatorService y utiliza la implementación CalculatorServiceImpl. La configuración permite que los métodos del servicio sean invocados remotamente por clientes utilizando RMI.
 
 3. Ejecución de Código
+   * Primero se inicializa el servidor
+   <img src="imagenes/SERVER.png" alt="SERVER" width="500"/>
+   
+   * Aqui se muestra cuando se ejecuta el programa
+   <img src="imagenes/PRUEBA.png" alt="PRUEBA" width="500"/>
